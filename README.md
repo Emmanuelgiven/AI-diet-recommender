@@ -79,7 +79,7 @@ The project is created with:
 ### Run it locally
 #### Clone the repo
 ```
-$ git clone https://github.com/zakaria-narjis/Diet-Recommendation-System
+$ git clone https://github.com/Emmanuelgiven/AI-diet-recommender
 ```
 ### docker-compose
 In the project root run:
@@ -91,4 +91,4 @@ Then open http://localhost:8501 and enjoy :smiley:.
 PS: You should have docker and docker-compose already installed
 ### Use the hosted version on Streamlit Cloud
 
-https://diet-recommendation-system.streamlit.app/
+https://emmanuelgiven-ai-diet-recommende-streamlit-frontendhello-1f586g.streamlit.app/Diet_Recommendation
