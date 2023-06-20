@@ -1,9 +1,9 @@
 <h1 align="center">AI Diet Recommender</h1>
 <div align= "center"><img src="Assets/logo_img1.jpg" />
-  <h4>A diet recommendation web application using content-based approach with Scikit-Learn, FastAPI and Streamlit.</h4>
+  <h4>An AI based diet recommendation web application using content-based approach with Scikit-Learn, FastAPI and Streamlit.</h4>
 </div>
 
-# Diet-Recommendation-System
+# AI-diet-recommender
 
 ## :bookmark_tabs:Table of contents
 * [General info](#general-info)
